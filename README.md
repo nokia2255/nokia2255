@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Mok Zhang Jing
+- 👀 I’m interested in machine learning
+- 📫 reach me throught email 
+  -> mokzjing@gmail.com
