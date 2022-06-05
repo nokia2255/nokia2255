@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mok Zhang Jing
+- 👋 Hi, I’m Mok Zhang Jing from Malaysia 
 - 👀 I’m interested in machine learning
 - 📫 reach me throught email 
   -> mokzjing@gmail.com
