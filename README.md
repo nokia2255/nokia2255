@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mok Zhang Jing from Malaysia 
-- 👀 I’m interested in machine learning
+- 👋 Hi, I’m Mok from Malaysia with CS major
+- 👀 I’m interested in machine learning, vibe coding
 - 📫 reach me throught email 
   -> mokzjing@gmail.com
