@@ -1,4 +1,7 @@
-- 👋 Hi, I’m Mok from Malaysia with CS major
-- 👀 I’m interested in machine learning, vibe coding
-- 📫 reach me throught email 
-  -> mokzjing@gmail.com
+👋 Hi, I’m Mok from Malaysia (CS Major)
+
+💻 Passionate programmer who loves coding, building, and solving problems
+
+👀 Interested in Machine Learning & Vibe Coding
+
+📫 Reach me via mokzjing@gmail.com
